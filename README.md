@@ -5,6 +5,7 @@ This sample uses the statistics query by defining the [outStatistics](https://de
 
 This application shows the Mongolian population range from 1990 to 2013. The population is queried by gender and years, and is displayed in a bar chart. Population is visualized using the DotDensityRenderer. Each dot represents 100 people. The population bar chart is updated as the user selects the option from dropdown menu while the dot density renderer is updated as the user drags or changes the slider. 
 
+![image](https://user-images.githubusercontent.com/106698838/213625666-243c4413-bbd8-44a8-bc01-61a7d17902e9.png)
 
 
 Here you can [view the code](https://github.com/Anujin-Byambajav/arcgis-js-api-apps/tree/main/mongolia-population)
