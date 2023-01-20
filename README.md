@@ -13,3 +13,6 @@ This application shows the Mongolian population range from 1990 to 2013. The pop
 [view live sample](https://anujin-byambajav.github.io/arcgis-js-api-apps/mongolia-population/index.html)
 
 ### Feature Service
+This application uses feature service to create a feature layer. 
+
+[the URL](https://services.arcgis.com/ZsdWaRdt8de0J6c5/ArcGIS/rest/services/Population_density_Mongolia/FeatureServer/0) of the feature service.
